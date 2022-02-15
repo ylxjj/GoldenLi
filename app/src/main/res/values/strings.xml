@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoldenLi</string>
+    <string name="glide">Glide封装的两种方法</string>
+    <string name="quanxian">动态申请权限</string>
+    <string name="ui">ui组件</string>
+    <string name="Okhttp">okhttp</string>
+    <string name="retrofit">retrofit</string>
+    <string name="mp">mediaplayer</string>
+    <string name="mc">mediarecorder</string>
+    <string name="sp">sundpool</string>
+    <string name="vp">videoplayer</string>
+    <string name="mvp">MVP</string>
+    <string name="mvvm">MVVM</string>
+    <string name="list">列表UI相关</string>
+    <string name="sget">同步请求get模式</string>
+    <string name="spost">同步post请求</string>
+    <string name="aget">异步get请求</string>
+    <string name="apost">异步post请求</string>
+    <string name="okcallback">请求返回内容</string>
+
+</resources>

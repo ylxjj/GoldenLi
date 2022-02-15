@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/sget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sget" />
+
+    <Button
+        android:id="@+id/spost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/spost" />
+
+    <Button
+        android:id="@+id/aget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aget" />
+
+    <Button
+        android:id="@+id/apost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/apost" />
+
+    <TextView
+        android:id="@+id/tvcontent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/okcallback" />
+</LinearLayout>
